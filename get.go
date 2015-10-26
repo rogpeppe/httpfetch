@@ -1,5 +1,5 @@
 // Package httpfetch is an illustrative package used for
-// a talk on testing in Go. The talk is at http://godoc.org/github.com/rogpeppe/talks/testing.talk/testing.slide .
+// a talk on testing in Go. The talk is at http://talks.godoc.org/github.com/rogpeppe/talks/testing.talk/testing.slide .
 package httpfetch
 
 import (
